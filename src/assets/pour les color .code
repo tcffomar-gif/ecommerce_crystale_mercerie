@@ -1,0 +1,64 @@
+  <h1>Home Page</h1>
+      <div className="flex gap-5 flex-wrap">
+        {accessoryColors.map((item, index) => (
+          <div
+            key={index}
+            className="w-[80px] h-[80px] border border-black cursor-pointer"
+            style={{
+              backgroundColor: item.code,
+              border: selectedColors.includes(item.code) ? '2px solid red' : '1px solid black', // Bordure rouge si sélectionnée
+            }}
+            onClick={() => handleColorClick(item.code)} // Gérer le clic
+          ></div>
+        ))}
+      </div>
+
+      {/* Afficher les couleurs sélectionnées */}
+      <div className="mt-5">
+        <h2>Couleurs sélectionnées :</h2>
+        <div className="flex gap-2 flex-wrap">
+          {selectedColors.map((color, index) => (
+            <div
+              key={index}
+              className="w-[40px] h-[40px] border border-black"
+              style={{ backgroundColor: color }}
+            ></div>
+          ))}
+        </div>
+      </div>
+
+
+
+
+
+
+
+        const fetchData = useCallback(async () => {
+    setIsLoading(true);
+    try {
+      const res = await fetch(
+        `${process.env.NEXT_PUBLIC_MY_URL}/api/get_min_price`,
+        {
+          method: "GET",
+        }
+      );
+      if (!res.ok) {
+        throw new Error("Failed to fetch data");
+      }
+      const data = await res.json();
+      console.log(data)
+      setprice_minimum(data.price_min);
+      console.log(price_minimum)
+
+    } catch (err) {
+      toast.error("Failed to fetch data");
+    } finally {
+      setIsLoading(false);
+    }
+  }, []);
+
+    const [price_minimum, setprice_minimum] = useState();
+
+    useEffect(() => {
+      fetchData();
+    }, [fetchData]);

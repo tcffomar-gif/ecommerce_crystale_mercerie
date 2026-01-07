@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  # Application Next.js Production
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: crystal_mercerie_container
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    restart: unless-stopped
+    networks:
+      - crystal-app-network-prod
+
+  # Nginx pour reverse proxy et static files (optionnel mais recommandé)
+  nginx:
+    image: nginx:alpine
+    container_name: nginx-proxy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /home/vps/images:/usr/share/nginx/html/images
+      - webroot:/var/www/html
+    depends_on:
+      - app
+    networks:
+      - crystal-app-network-prod
+
+networks:
+  crystal-app-network-prod:
+    driver: bridge
+
+volumes:
+  webroot:

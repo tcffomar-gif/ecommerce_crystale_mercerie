@@ -1,0 +1,36 @@
+.back_to_top {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+
+  
+  border-radius: 0.4rem;
+  pointer-events: none;
+  opacity: 0;
+  box-shadow: 0 0 0.5rem rgb(231, 231, 231);
+  transition: all 0.2s ease-in-out;
+  transform: translateY(-30rem);
+  transition: all 0.3s;
+  z-index: 50;
+
+}
+
+.back_to_top:hover{
+  rotate: 45deg;
+}
+
+/* ion-icon {
+  color: rgb(100, 78, 226);
+  font-size: 30px;
+} */
+.back_to_top.show {
+  opacity: 1;
+  pointer-events: auto;
+  cursor: pointer;
+  transform: translateY(0rem);
+}
+

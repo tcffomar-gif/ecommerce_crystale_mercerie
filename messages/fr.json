@@ -1,0 +1,415 @@
+{
+  "HomePage": {
+    "title": "Bienvenue sur notre site e-commerce",
+    "about": "À propos",
+    "popularCategories": "Catégories populaires",
+    "viewDetails": "Voir les détails",
+    "noProductsFound": "Aucun produit trouvé",
+    "onlineSupport": "Support en ligne",
+    "paymentMethod": "Paiement à la livraison",
+    "fastDelivery": "Livraison rapide",
+    "Accessoires": "Accessoires",
+    "Bijoux": "Bijoux",
+    "Mercerie": "Mercerie",
+    "Pierres": "Pierres",
+    "Decoration": "Fils & Crochets",
+    "ArticlesdeSac": "Articles de Sac",
+    "PlaqueOr": "Plaque Or",
+    "continueShopping": "Continuer vos achats",
+    "aucun_produit": "Aucun produit disponible dans cette catégorie pour le moment.",
+    "plusvendus": "Produits les plus vendus",
+    "sortBy": "Trier par",
+    "relevance": "Pertinence",
+    "priceLowToHigh": "Prix: croissant",
+    "priceHighToLow": "Prix: décroissant",
+    "NomAZ": "Alphabet",
+    "Prix": "Prix (DZD)",
+    "Réinitialiser": "Réinitialiser",
+    "newest": "Plus récent",
+    "products": "produits",
+    "Rechercher": "Rechercher...",
+    "product": "produit",
+    "Filtres": "Filtres",
+    "Catégorie": "Catégorie",
+    "Précédent": "Précédent",
+    "Suivant": "Suivant",
+    "AucunProduit": "Aucun produit trouvé",
+    "EssayezModifierFiltrage": "Essayez de modifier vos critères de recherche ou de filtrage",
+    "Touteslescatégories": "Toutes les catégories",
+    "AutresCatégories": "Autres Catégories",
+    "Découvreznotresélectionpremium": "Découvrez notre sélection premium",
+    "found": "trouvé(s)"
+  },
+  "Header": {
+    "searchPlaceholder": "Rechercher un produit",
+    "allCategories": "Toutes les catégories",
+    "searchButton": "Rechercher",
+    "suggestions": "SUGGESTIONS",
+    "products": "PRODUITS",
+    "home": "Accueil",
+    "PROMOTION": "PROMOTION",
+    "Profile": "Profile",
+    "history": "Historique",
+    "cart": "Panier",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "prices": "Prix",
+    "subtotal": "Sous-total",
+    "discount": "Réduction",
+    "continueShopping": "CONTINUER LES ACHATS",
+    "proceedToCheckout": "PROCÉDER AU PAIEMENT",
+    "emptyCart": "Vide",
+    "unitPrice": "Prix unitaire",
+    "color": "Couleur",
+    "diameter": "Diamètre",
+    "length": "Longueur",
+    "loginToViewCart": "Veuillez vous connecter pour afficher le contenu",
+    "close": "Fermer",
+    "langue": "Langue",
+    "article": "article",
+    "articles": "articles",
+    "dansvotrepanier": " dans votre panier ",
+    "Ajoutezproduits": "Ajoutez des produits pour commencer vos achats",
+    "quantity": "Quantité"
+  },
+  "Footer": {
+    "contactUs": "Contactez-nous",
+    "faq": "Questions fréquemment posées",
+    "termsAndConditions": "Conditions générales",
+    "termsOfUse": "Conditions d'utilisation",
+    "returnPolicy": "Politique d'échange et de retour",
+    "privacyPolicy": "Politique de confidentialité",
+    "aboutStore": "À propos du magasin",
+    "paymentMethods": "Moyens de paiement",
+    "shippingFees": "Frais de port et de manutention",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Abonnez-vous pour recevoir nos offres exclusives.",
+    "emailPlaceholder": "Votre email",
+    "subscribe": "S'abonner",
+    "allRightsReserved": "Tous droits réservés."
+  },
+  "ProductDetail": {
+    "title": "Titre",
+    "benefit": "Réductions disponibles",
+    "ifYouBuy": "Si vous en achetez",
+    "youGetDiscount": "vous bénéficiez d'une réduction de",
+    "description": "Description",
+    "length": "Longueur",
+    "diameter": "Diamètre",
+    "color": "Couleur",
+    "quantity": "Quantité",
+    "loading": "Chargement...",
+    "addToCart": "Ajouter au panier",
+    "loginToOrder": "Connectez-vous pour passer commande",
+    "login": "Connexion",
+    "customerReviews": "Avis des clients",
+    "noReviewsYet": "Il n'y a pas encore d'avis. Soyez le premier à donner votre avis sur",
+    "leaveReview": "Donnez votre avis",
+    "yourRating": "Votre note",
+    "yourReview": "Votre avis",
+    "shareExperience": "Partagez votre expérience avec ce produit...",
+    "name": "Nom",
+    "yourName": "Votre nom",
+    "email": "Email",
+    "yourEmail": "Votre email",
+    "submitReview": "Soumettre l'avis",
+    "productAlreadyInCart": "Le produit est déjà dans le panier",
+    "productAddedToCart": "Produit ajouté au panier",
+    "failedToAddProduct": "Échec de l'ajout du produit",
+    "fillAllFields": "Veuillez remplir tous les champs et fournir une note.",
+    "failedToAddComment": "Échec de l'ajout du commentaire",
+    "thankYouForReview": "Merci pour votre avis !",
+    "hideReviews": "Masquer les avis",
+    "showReviews": "Afficher les avis",
+    "model": "Modèle",
+    "achetemaintenant": "Acheter Maintenant",
+    "close": "Fermer",
+    "selectRelayPoint": "Sélectionnez un point relais",
+    "commune": "Commune",
+    "selectCommune": "Sélectionnez la Commune",
+    "address": "Adresse complète",
+    "chooseRelayPoint": "Choisissez un point relais",
+    "Offre": "Offre"
+  },
+  "historique": {
+    "failedToFetchData": "Échec de la récupération des données",
+    "statusUpdated": "Statut mis à jour",
+    "failedToUpdateStatus": "Échec de la mise à jour du statut",
+    "loginToViewContent": "Veuillez vous connecter pour afficher le contenu",
+    "login": "Connexion",
+    "history": "Historique",
+    "allStatuses": "Tous les statuts",
+    "pending": "En attente",
+    "inDelivery": "En cours de livraison",
+    "refused": "Refusé",
+    "received": "Reçu",
+    "empty": "Vide",
+    "viewProductDetails": "Voir les détails du produit",
+    "viewDetails": "Voir les détails",
+    "status": "État",
+    "products": "Produits",
+    "prices": "Prix",
+    "subtotal": "Sous-total",
+    "shipping": "Expédition",
+    "total": "Total",
+    "markAsReceived": "Marquer comme reçu",
+    "close": "Fermer",
+    "productNotAvailable": "Produit non disponible"
+  },
+  "CartPage": {
+    "cart": "Panier",
+    "emptyCart": "Vide",
+    "unitPrice": "Prix unitaire",
+    "color": "Couleur",
+    "Modele": "Modele",
+    "diameter": "Diamètre",
+    "length": "Longueur",
+    "orderForm": "Formulaire de commande",
+    "fullName": "Nom et Prénom",
+    "fullNamePlaceholder": "الإسم الشخصي",
+    "phoneNumber": "Numéro de téléphone",
+    "phoneNumberPlaceholder": "الهاتف",
+    "confirmPhoneNumber": "Confirmer le numéro de téléphone",
+    "confirmPhoneNumberPlaceholder": "تأكيد رقم الهاتف",
+    "wilaya": "Wilaya",
+    "deliveryType": "Type de livraison",
+    "relayPoint": "التوصيل للمكتب",
+    "homeDelivery": "التوصيل لباب المنزل",
+    "commune": "Commune",
+    "communePlaceholder": "1",
+    "orderSummary": "Résumé de la commande",
+    "subtotal": "Sous-total",
+    "deliveryFees": "Frais de livraison",
+    "total": "Total",
+    "loading": "Chargement",
+    "sendOrder": "ENVOYER LA COMMANDE",
+    "loginToPlaceOrder": "Veuillez vous connecter pour passer une commande.",
+    "fillRequiredFields": "Veuillez remplir tous les champs obligatoires.",
+    "phoneNumbersDoNotMatch": "Les numéros de téléphone ne correspondent pas.",
+    "minPriceError": "Pour passer une commande, le prix minimum doit être supérieur à {price}.",
+    "orderSentSuccessfully": "Commande envoyée avec succès !",
+    "orderError": "Une erreur s'est produite lors de l'envoi de la commande.",
+    "loginToViewContent": "Veuillez vous connecter pour afficher le contenu",
+    "login": "Connexion",
+    "selectWilaya": "Sélectionnez une wilaya",
+    "selectRelayPoint": "Sélectionnez un point relais",
+    "chooseRelayPoint": "Choisissez un point relais",
+    "address": "Adresse complète",
+    "placeOrder": "Passer la commande",
+    "processing": "Traitement...",
+    "fillAddressFields": "Veuillez compléter votre adresse",
+    "quantity": "Quantité",
+    "Prixdebase": "Prix de base",
+    "Ajustements": "Ajustements",
+    "Prixapresajustements": "Prix après ajustements",
+    "Soustotal": "Sous-total",
+    "Reductionappliquee": "Réduction appliquée",
+    "selectCommune": "Sélectionnez la Commune"
+  },
+  "ProfilePage": {
+    "changePassword": "Changer le mot de passe",
+    "currentPasswordPlaceholder": "Mot de passe actuel",
+    "newPasswordPlaceholder": "Nouveau mot de passe",
+    "confirmPasswordPlaceholder": "Confirmer le mot de passe",
+    "save": "ENREGISTRER",
+    "passwordsDoNotMatch": "Les nouveaux mots de passe ne correspondent pas.",
+    "loginToViewContent": "Veuillez vous connecter pour afficher le contenu",
+    "login": "Connexion"
+  },
+  "LoginPage": {
+    "login": "Se connecter",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Mot de passe",
+    "connect": "Se connecter",
+    "loading": "Chargement...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signUp": "Inscrivez-vous",
+    "fillAllFields": "Tous les champs doivent être remplis.",
+    "invalidCredentials": "E-mail ou mot de passe invalide ou e-mail non vérifié."
+  },
+  "RegisterPage": {
+    "register": "S'inscrire",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Mot de passe",
+    "confirmPasswordPlaceholder": "Confirmer le mot de passe",
+    "confirmemail": "Confirmer l'email",
+    "createAccount": "Créer un compte",
+    "verefieEmail": "Vérification de l'e-mail",
+    "VerefierEmailLien": "Voulez-vous vérifier votre compte ?",
+    "verefier": "Vérification",
+    "loading": "Chargement...",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "fillAllFields": "Tous les champs doivent être remplis.",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas.",
+    "emailsDoNotMatch": "L'Email ne correspondent pas.",
+    "userAlreadyExists": "L'utilisateur existe déjà.",
+    "accountCreatedSuccessfully": "Votre compte a été créé avec succès.",
+    "failedToCreateAccount": "Échec de la création du compte, veuillez réessayer.",
+    "failedToVerifierAccount": "Échec de la verification du compte, veuillez réessayer."
+  },
+  "ContactPage": {
+    "contactUs": "Contactez-nous",
+    "description": "Nous serons heureux de vous contacter et de répondre à vos questions.",
+    "viaInstagram": "Via Instagram",
+    "viaPhone": "Par téléphone",
+    "lookingForward": "Nous sommes impatients de vous entendre !"
+  },
+  "QuestionsPosees": {
+    "title": "Questions Fréquemment Posées",
+    "deliveryTitle": "Livraison",
+    "deliveryText1": "Cela dépend de la société de transport choisie et de la personne responsable de la livraison. Nous fournissons un groupe de transporteurs dans un groupe de grandes villes. Cela prend généralement de 1 à 3 jours à compter de la commande et de la confirmation.",
+    "deliveryText2": "Actuellement, les sociétés de transport sous contrat livrent dans le pays et dans un groupe de villes spécifié sur la page de livraison. Toutes les villes desservies par le représentant de la société de transport sont affichées.",
+    "deliveryText3": "Vous pouvez demander une livraison à l’extérieur du pays auprès de l’équipe du magasin via WhatsApp pour fournir des informations sur le poids du produit et les prix pour les agents d’expédition internationaux qui ne sont pas actuellement enregistrés dans le magasin.",
+    "manufacturingDefectTitle": "Défaut de fabrication",
+    "manufacturingDefectText": "Vous devez vous référer et lire la politique de retour pour connaître les conditions de retour et d’échange. En cas de défaut de fabrication et qu’un accord a été trouvé pour le retourner, les frais de port seront calculés pour l’entreprise et la réexpédition sera à la charge du client. Cependant, la valeur du produit ne sera pas calculée à la charge du client selon la politique de retour.",
+    "bulkOrdersTitle": "Commandes en grande quantité",
+    "bulkOrdersText": "Le magasin propose un service de livraison en grande quantité en cas de commande, et il y a une remise de 10 à 20 % sur certains produits. Vous pouvez nous contacter directement via la page",
+    "contactUs": "Contactez-nous"
+  },
+  "ConditionsUtilisation": {
+    "title": "Conditions d'Utilisation",
+    "introduction": {
+      "title": "Introduction",
+      "content1": "Les présentes conditions d’utilisation s’appliquent au site et à toutes ses divisions, filiales et sites Web affiliés qui font référence à ces conditions générales.",
+      "content2": "En visitant le Site, le Client reconnaît son acceptation des présentes Conditions Générales. Si vous n'êtes pas d'accord avec eux, vous ne devez pas utiliser ce site. Les administrateurs du site se réservent le droit de changer, modifier, ajouter des informations ou supprimer des parties des conditions d'utilisation à tout moment. Les modifications entreront en vigueur dès leur publication sur le Site sans préavis. Veuillez consulter régulièrement les Conditions générales d'utilisation pour toute mise à jour. Votre utilisation continue du Site après la publication de modifications apportées aux présentes Conditions générales d'utilisation constitue votre acceptation de ces modifications."
+    },
+    "utilisationDuSite": {
+      "title": "Utilisation du Site",
+      "content1": "Pour visiter ce site, vous devez être âgé d'au moins 18 ans ou accéder au site sous la supervision d'un parent ou d'un tuteur légal.",
+      "content2": "Nous vous accordons une licence non transférable et révocable pour utiliser le Site selon les termes et conditions décrits. Le but de cette licence est d'acheter des articles personnels vendus sur le Site. L'utilisation commerciale ou l'utilisation au nom d'un tiers est interdite, sauf autorisation expresse et transparente préalable de notre part. Toute violation des présentes Conditions Générales entraînera la révocation immédiate de la licence accordée dans ce paragraphe sans préavis.",
+      "content3": "Le contenu figurant sur ce site est fourni à titre informatif uniquement. Les descriptions de produits exprimées sur ce site sont celles des vendeurs eux-mêmes et n'engagent pas notre responsabilité. Les commentaires ou opinions exprimés sur ce site sont ceux de la personne qui les publie et ne reflètent pas nos points de vue.",
+      "content4": "Certains services et fonctionnalités connexes pouvant être disponibles sur le Site nécessitent une inscription ou un abonnement. En choisissant de vous inscrire ou de vous abonner à de tels services ou fonctionnalités associées, vous acceptez de fournir des informations exactes et à jour sur vous-même et de mettre à jour rapidement ces informations en cas de changement. Chaque utilisateur du Site est seul responsable de la sécurité des mots de passe et autres méthodes d’identification de compte. Le propriétaire du compte est seul responsable de toutes les activités qui se produisent sous son mot de passe ou son compte. De plus, vous devez nous informer de toute utilisation non autorisée de votre mot de passe ou de votre compte. Le Site ne sera pas responsable, directement ou indirectement, de quelque manière que ce soit, de toute perte ou dommage de quelque nature que ce soit résultant ou en relation avec votre non-respect de la présente section.",
+      "content5": "Lors du processus d'inscription, le client accepte de recevoir des emails promotionnels du site. Vous pouvez, ultérieurement, choisir de ne plus recevoir d'e-mails promotionnels en cliquant sur le lien situé au bas de tout e-mail promotionnel."
+    },
+    "messagesDesUtilisateurs": {
+      "title": "Messages des utilisateurs",
+      "content1": "Toutes vos contributions au Site et/ou vos soumissions, y compris, mais sans s'y limiter, les questions, critiques, commentaires et suggestions (collectivement, les « Contributions ») deviennent notre propriété unique et exclusive et ne vous seront en aucun cas retournées. En plus des droits applicables à tout type de soumission, une fois que vous partagez vos commentaires ou critiques avec nous sur le Site, vous nous accordez également le droit d'utiliser le nom que vous affichez en relation avec cette critique, ce commentaire ou tout autre contenu. Vous ne pouvez pas utiliser une fausse adresse e-mail, prétendre être quelqu'un d'autre que vous-même ou tenter de toute autre manière de nous induire en erreur ou d'induire en erreur un tiers quant à l'authenticité de toute soumission. Nous pouvons, mais ne sommes pas obligés de, supprimer ou modifier l'un de vos messages."
+    },
+    "approbationDesCommandes": {
+      "title": "Approbation des commandes et détails des prix",
+      "content1": "Veuillez noter que dans certains cas, une demande peut ne pas être approuvée pour plusieurs raisons. Les administrateurs du site se réservent le droit de refuser ou d'annuler toute commande pour quelque raison que ce soit à tout moment. Avant d'accepter une demande, nous pouvons vous demander de fournir des informations supplémentaires ou d'autres données pour vérifier quelque chose, y compris, mais sans s'y limiter, votre numéro de téléphone et votre adresse.",
+      "content2": "Nous souhaitons fournir les informations de prix les plus précises à tous les utilisateurs qui visitent le site. Toutefois, des erreurs peuvent survenir occasionnellement, par exemple dans les cas où le prix d'un produit n'est pas spécifié correctement sur le site Web. Par conséquent, nous nous réservons le droit de refuser ou d'annuler toute commande. Dans le cas où le prix d'un produit est erroné, nous pouvons, à notre seule discrétion, soit vous contacter pour obtenir des instructions, soit annuler votre commande et vous informer de cette annulation. Nous avons le droit de refuser ou d'annuler de telles commandes, que la commande ait été confirmée ou non et que votre carte de crédit ait été débitée ou non."
+    },
+    "marquesEtDroitsDauteur": {
+      "title": "Marques et droits d'auteur",
+      "content1": "Tous les droits de propriété intellectuelle, qu'ils soient enregistrés ou non, sur le Site, ainsi que toutes les informations de contenu et de conception contenues sur le Site, nous appartiennent, y compris, mais sans s'y limiter, le texte, les graphiques, les logiciels, les photos, la vidéo, la musique, le son, et leur sélection et leur disposition, ainsi que toutes les compilations de logiciels, le code source sous-jacent et les logiciels. L’ensemble du contenu du Site est également protégé par le droit d’auteur en tant qu’œuvre collective. Tous droits réservés."
+    },
+    "loiApplicable": {
+      "title": "Loi applicable et juridictions compétentes",
+      "content1": "Les présentes conditions générales seront interprétées et régies par les lois du pays. Chaque partie accepte par les présentes de se soumettre à la juridiction des tribunaux du pays et renonce à toute objection quant au lieu."
+    },
+    "annulerConsentement": {
+      "title": "Annuler le consentement",
+      "content1": "En plus de tout autre recours légal ou équitable, nous pouvons, immédiatement et sans préavis, résilier les présentes Conditions générales ou révoquer tout ou partie de vos droits accordés en vertu des Conditions générales. En cas de résiliation du présent Contrat, vous devez immédiatement cesser d'accéder au Site et de l'utiliser, et en plus de tout recours légal ou équitable, nous pouvons immédiatement révoquer tous les mots de passe ou autres identifiants de compte qui vous ont été délivrés et vous refuser l'accès et l'utilisation de ce Site en tout ou en partie. Toute résiliation du présent Contrat n’affectera pas tous les droits et obligations (y compris, mais sans s’y limiter, les obligations de paiement) des parties nés avant la date de résiliation. Par conséquent, vous acceptez que les opérateurs du site ne seront pas responsables envers vous ou toute autre personne suite à la suspension ou à la résiliation du service. Si vous n'êtes pas satisfait de ce site ou de l'un des termes, conditions, règles, politiques, directives ou pratiques du magasin sur la façon d'exploiter le magasin, votre seule et unique action est de cesser d'utiliser le site."
+    }
+  },
+  "PolitiqueConfidentialite": {
+    "title": "Politique de Confidentialité",
+    "introduction": {
+      "title": "Introduction",
+      "content1": "Notre site Web respecte votre vie privée et cherche à protéger vos données personnelles. Cette politique de confidentialité explique comment nous collectons et utilisons vos données personnelles (dans certaines circonstances). Il mentionne également les procédures suivies pour assurer la confidentialité de vos informations. Enfin, cette politique décrit les choix qui s’offrent à vous concernant la collecte, l’utilisation et la divulgation des données personnelles. En visitant le Site directement ou via un autre site, vous acceptez les pratiques décrites dans la présente Politique.",
+      "content2": "La protection de vos données est très importante pour nous. Votre nom et d’autres informations vous concernant seront ensuite utilisés de la manière décrite dans la présente politique de confidentialité. Nous collecterons des informations lorsque cela est nécessaire ou directement pertinent pour nos relations avec vous.",
+      "content3": "Nous conserverons vos données conformément à la loi ou les utiliserons aux fins pour lesquelles elles ont été collectées.",
+      "content4": "Vous pouvez naviguer sur le site sans avoir à fournir aucune donnée personnelle. Votre identité personnelle reste anonyme tout au long de votre visite sur le site et n'est révélée que si vous disposez d'un compte électronique privé sur le site auquel vous accédez à l'aide de votre nom d'utilisateur et de votre mot de passe."
+    },
+    "donneesCollectees": {
+      "title": "1 - Données que nous collectons",
+      "content1": "Nous pouvons avoir besoin de collecter vos informations si vous souhaitez passer une commande pour un article sur notre site.",
+      "content2": "Nous collectons, stockons et traitons vos données nécessaires au suivi de votre achat sur notre site Web, pour sécuriser toute réclamation potentielle qui pourrait survenir ultérieurement et pour vous fournir les services dont nous disposons. Nous pouvons collecter des informations personnelles, y compris, mais sans s'y limiter, le nom, le sexe, la date de naissance, l'adresse e-mail, l'adresse postale, l'adresse de livraison (si différente), le numéro de téléphone, les détails de paiement et les détails de la carte de paiement.",
+      "content3": "Nous utilisons les informations que vous fournissez pour nous permettre de traiter vos demandes et de vous fournir les services et informations proposés sur notre site que vous demandez. En outre, nous utiliserons les informations que vous fournissez pour gérer votre compte chez nous, pour vérifier les transactions financières que vous effectuez en ligne, pour auditer le téléchargement de données à partir du Site, pour identifier les visiteurs du Site et pour développer et personnaliser les conceptions et/ou le contenu des pages du Site pour les utilisateurs. Nous effectuons diverses recherches démographiques et envoyons des informations utiles ou demandées à l'utilisateur, par exemple des informations sur des produits et services, si vous ne vous opposez pas à être contacté à ce sujet. Nous pouvons vous contacter par e-mail pour vous fournir des détails sur d'autres produits et services si vous le souhaitez, et si vous préférez ne pas recevoir de communications promotionnelles et marketing, veuillez vous désinscrire de cette option à tout moment.",
+      "content4": "Nous pouvons communiquer votre nom et votre adresse à un tiers afin de vous livrer votre commande (par exemple, un livreur ou un fournisseur).",
+      "content5": "Nous pouvons être en mesure de stocker des détails relatifs à votre commande en cours sur notre site Web, mais ne pouvons pas les récupérer directement pour des raisons de sécurité. En vous connectant à votre compte sur le site, vous pourrez consulter les informations et détails de vos achats que vous avez demandés ou que vous soumettrez prochainement. Vous pouvez également gérer vos coordonnées. Vous devez également vous engager à traiter vos données personnelles en toute confidentialité et à ne pas les mettre à disposition de tiers non autorisés. Nous n'acceptons aucune responsabilité pour l'utilisation abusive des mots de passe, sauf si cette utilisation abusive est due à notre faute."
+    },
+    "cookies": {
+      "title": "2 - Cookies",
+      "content1": "L’acceptation des cookies n’est pas une condition préalable à la visite du Site. Nous vous informons toutefois qu'il n'est pas possible d'utiliser les fonctions « panier » du site et de demander un article sans activer les cookies. Les cookies sont de petits fichiers texte qui permettent à notre serveur d'identifier votre ordinateur en tant qu'utilisateur unique lorsque vous visitez certaines pages du Site. Votre navigateur stocke ces fichiers sur le disque dur de votre ordinateur. Les cookies peuvent être utilisés pour détecter votre adresse IP (Internet Protocol), vous faisant gagner du temps lorsque vous êtes sur le site ou souhaitez le visiter. Nous utilisons des cookies pour assurer votre confort lorsque vous naviguez sur ce site (par exemple pour nous souvenir de qui vous êtes lorsque vous souhaitez modifier votre panier sans avoir à ressaisir votre adresse e-mail) et non pour obtenir ou utiliser d'autres informations vous concernant (par exemple à des fins de marketing ciblé). Vous pouvez configurer votre navigateur pour ne pas accepter les cookies, mais cela peut limiter votre utilisation du Site. Nous vous assurons que notre utilisation des cookies ne contient aucune information personnelle ou privée et est exempte de virus. Ce site utilise Google Analytics, un service fourni par Google pour analyser les pages Web. Pour analyser la manière dont les utilisateurs utilisent le site, Google Analytics s'appuie sur des cookies, qui sont des fichiers textes placés sur votre ordinateur. Les informations générées par le cookie concernant votre utilisation de ce site Web (y compris votre adresse IP) seront transmises et stockées par Google sur des serveurs aux États-Unis. Google utilisera ces informations pour évaluer votre utilisation du site Web, préparer des rapports pour les opérateurs de sites Web sur l'activité du site Web et fournir d'autres services liés à l'activité du site Web et à l'utilisation d'Internet. Google peut également transférer ces informations à un tiers si la loi l'exige ou si un tiers traite les informations pour le compte de Google. Google n'associera pas votre adresse IP à d'autres données qu'il détient. Vous pouvez refuser l'utilisation de cookies en sélectionnant les paramètres appropriés de votre navigateur, mais veuillez noter que si vous faites cela, vous ne pourrez peut-être pas utiliser toutes les fonctionnalités du site Web. En utilisant ce site Web, vous consentez à ce que Google utilise vos données de la manière et aux fins détaillées ci-dessus."
+    },
+    "securite": {
+      "title": "3 - Sécurité",
+      "content1": "Nous utilisons des techniques et procédures de sécurité appropriées pour empêcher tout accès non autorisé ou illégal, ainsi que toute perte ou destruction de vos informations. Lorsque nous collectons des données via le Site, nous stockons vos informations personnelles dans une base de données sur un serveur sécurisé. Nous utilisons des systèmes de pare-feu sur nos serveurs. Lorsque nous collectons les données de carte de paiement par voie électronique, nous les protégeons grâce à l'utilisation d'un cryptage, tel que Secure Sockets Layer (SSL). Il est donc difficile pour tout pirate de décrypter vos informations puisque nous ne pouvons pas garantir une protection à 100 %. Nous vous conseillons fortement de ne pas transmettre toutes les informations de votre carte de crédit ou de débit lorsque vous communiquez avec nous par voie électronique et sans cryptage. Nous maintenons des mesures de protection physiques, électroniques et procédurales en rapport avec la collecte, le stockage et la divulgation de vos informations. Nos procédures de sécurité exigent que nous vous demandions occasionnellement de vérifier votre identité avant de vous divulguer vos informations personnelles. Vous êtes responsable de la protection de votre mot de passe et de votre ordinateur contre toute utilisation non autorisée."
+    },
+    "droitsClient": {
+      "title": "4 - Droits du client",
+      "content1": "Si vous êtes préoccupé par vos données, vous avez le droit de demander l’accès aux données personnelles que nous détenons à votre sujet ou que nous avons précédemment transférées. Vous avez le droit de nous demander de corriger toute erreur dans vos données personnelles, et cela sera fait gratuitement. Vous avez également le droit de nous demander, à tout moment, de cesser d’utiliser vos données personnelles à des fins de marketing direct."
+    }
+  },
+  "PolitiqueEchange": {
+    "title": "Politique d’Échange et de Retour",
+    "politique": {
+      "title": "Politique d’échange et de retour",
+    "items": [
+        "L'échange et le retour sont un droit garanti pour tous nos clients et couvrent tous les produits que nous proposons dans notre boutique.",
+        "Les articles ne peuvent être retournés ou échangés que s'ils sont dans le même état intact dans lequel nous vous les avons fournis.",
+        "Le retour des articles ne dépasse pas un délai d'un jour, tandis que l'échange est de 3 jours à compter de leur réception.",
+        "Veuillez nous contacter via notre page <a href='/contact' className='text-[#D4B814] hover:text-[#EDD658] transition-colors duration-300'>Contact</a> ou par téléphone pour demander un retour ou un échange.",
+        "Le client a le droit de retourner l'article s'il le trouve non conforme aux spécifications que nous lui avons fournies, et ce après l'avoir ouvert, que ce soit au centre de livraison ou lors de sa réception par le livreur."
+      ]
+    },
+    "contactButton": "Contactez-nous"
+  },
+  "proposMagasin": {
+    "title": "À propos du magasin",
+    "introduction": {
+      "title": "Bienvenue dans notre magasin",
+      "content1": "Ce magasin est votre nouvelle passerelle vers des achats en ligne faciles et simples.",
+      "content2": "Nous vous proposons différents produits de haute qualité parmi lesquels choisir, à un prix compétitif que vous ne trouverez nulle part ailleurs. Faire du shopping avec nous est amusant et sûr. Nous vous offrons toutes les facilités dont vous avez besoin, que ce soit dans le choix du produit, le processus de paiement ou le processus d'expédition."
+    },
+    "pourquoiNousChoisir": {
+      "title": "Pourquoi nous choisir ?",
+      "items": [
+        "Produits de haute qualité à des prix compétitifs.",
+        "Processus d'achat simple et sécurisé.",
+        "Options de paiement flexibles et fiables.",
+        "Expédition rapide et fiable.",
+        "Service clientèle disponible pour répondre à vos questions."
+      ]
+    },
+    "notreEngagement": {
+      "title": "Notre engagement",
+      "content": "Nous nous engageons à fournir à nos clients une expérience d'achat en ligne exceptionnelle. Notre équipe travaille sans relâche pour vous offrir les meilleurs produits et services, tout en garantissant votre satisfaction à chaque étape du processus."
+    },
+    "contactButton": "Contactez-nous"
+  },
+  "MoyensPaiement": {
+    "title": "Moyens de Paiement",
+    "paiementLivraison": {
+      "title": "Paiement à la livraison (COD)",
+      "content1": "Le paiement à la livraison est l'un des modes de paiement disponibles dans notre boutique. Le paiement à la livraison signifie que l'acheteur peut effectuer ses achats dans notre boutique en ligne et choisir le produit qu'il souhaite, puis passer la commande et choisir le mode de paiement à la livraison, ce qui signifie que le processus de paiement est reporté jusqu'à ce que le client reçoive le produit qu'il a commandé par voie électronique.",
+      "content2": "Nous enverrons le produit à l'endroit convenu (ville, quartier, domicile ou autre lieu), puis le paiement sera effectué."
+    },
+    "paiementVirement": {
+      "title": "Paiement par virement bancaire",
+      "content": "Le paiement par virement bancaire est l'un des modes de paiement disponibles dans notre boutique. Le paiement s'effectue en transférant le montant convenu sur notre compte bancaire, ou par virement bancaire, ou via l'une des agences de transfert d'argent au nom convenu, après quoi le produit est envoyé à l'adresse convenue."
+    },
+    "paiementPayPal": {
+      "title": "Paiement via PayPal",
+      "content": "Le paiement par virement PayPal est l'une des méthodes disponibles dans notre boutique. Le paiement s'effectue en transférant le montant convenu sur notre compte PayPal, après quoi le produit est envoyé à l'adresse convenue."
+    },
+    "contactButton": "Contactez-nous"
+  },
+  "FraisPortManutention": {
+    "title": "Frais de Port et de Manutention",
+    "expedition": {
+      "title": "Expédition",
+      "content": "Après avoir confirmé votre achat, nous expédions et envoyons le produit via la méthode que vous avez choisie."
+    },
+    "methodesExpedition": {
+      "title": "Méthodes d'expédition",
+      "content": "Un service qui garantit que vos envois seront livrés à l'adresse demandée dans un délai allant de 1 à 3 jours vers le bureau de livraison."
+    },
+    "contactButton": "Contactez-nous"
+  },
+  "VerifyEmailPage": {
+    "missingToken": "Token manquant.",
+    "verificationInProgress": "Vérification en cours...",
+    "verificationFailed": "Échec de la vérification de l'email.",
+    "emailVerified": "Email vérifié avec succès. Vous pouvez maintenant vous connecter.",
+    "invalidToken": "Token invalide ou expiré."
+  },
+  "relatedProducts": {
+    "relatedProducts": "Produits similaires",
+    "viewDetails": "Voir détails"
+  }
+}
