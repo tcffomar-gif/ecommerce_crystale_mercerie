@@ -213,12 +213,12 @@ const Page = async ({ params }) => {
   return (
     <>
       <ProductDetail product={product} price_min={price_min} />
-      {/* <div className="container mx-auto px-4 mb-8">
+      <div className="container mx-auto px-4 mb-8">
         <RelatedProducts 
           productId={id} 
           currentProductCategory={product.categorie} 
         />
-      </div> */}
+      </div>
     </>
   );
 };
