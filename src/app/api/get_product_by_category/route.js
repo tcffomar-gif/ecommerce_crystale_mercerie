@@ -129,19 +129,19 @@ export async function GET(request) {
     const skip = (page - 1) * limit;
     
     // Construire la requête de recherche dans mon category
-    // let query = { 
-    //   categorie: category_produit, 
-    //   disponible: "disponible" 
-    // };
-
-   //Construire la requête de recherche dans tout les category si  searchTerm exist 
-      let query = { 
+    let query = { 
+      categorie: category_produit, 
       disponible: "disponible" 
     };
 
-     if (!searchTerm && category_produit) {
-      query.categorie = category_produit;
-    }
+   //Construire la requête de recherche dans tout les category si  searchTerm exist 
+    //   let query = { 
+    //   disponible: "disponible" 
+    // };
+
+    //  if (!searchTerm && category_produit) {
+    //   query.categorie = category_produit;
+    // }
     
     
     // Ajouter la recherche si un terme est fourni
