@@ -48,6 +48,7 @@ const nextConfig = {
         NEXT_PUBLIC_MY_URL: process.env.NEXT_PUBLIC_MY_URL,
       },
       images: {
+         domains: ['5.135.239.84'],
         // unoptimized: true, // Disables all image optimizations globally
         remotePatterns: [
           {

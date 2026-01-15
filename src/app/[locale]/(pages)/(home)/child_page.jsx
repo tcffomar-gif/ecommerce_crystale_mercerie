@@ -258,7 +258,7 @@ const slides = [
       }}
       quality={80}
         fill
-        //  unoptimized={false} 
+      
     />
 
     <div className="absolute inset-0 z-20 flex items-center">
@@ -394,7 +394,7 @@ const slides = [
                             quality={65}
                             sizes="(max-width: 640px) 64px, (max-width: 1024px) 80px, 112px"
                             className="object-cover transition-transform duration-500 group-hover:scale-110"
-                          //  unoptimized={false} 
+                      
                           />
                         </div>
                       </div>
@@ -646,7 +646,7 @@ const slides = [
                               : "group-hover:scale-105"
                           }`}
                           loading={index < 4 ? "eager" : "lazy"}
-                          //  unoptimized={true} 
+                  
                         />
 
                         {/* Image au hover (seulement si elle existe) */}
@@ -665,7 +665,7 @@ const slides = [
                               viewMode === "list" ? "rounded-lg" : ""
                             }`}
                             loading="lazy"
-                            //  unoptimized={true} 
+                        
                           />
                         )}
 

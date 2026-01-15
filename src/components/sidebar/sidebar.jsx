@@ -145,7 +145,6 @@ export const Logo = () => {
           width={150}
           height={150}
           alt={""}
-          //  unoptimized={true} 
         />
       </motion.span>
     </div>

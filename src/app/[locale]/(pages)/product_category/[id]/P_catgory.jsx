@@ -80,7 +80,6 @@
 // //                     fill
 // //                     sizes="(max-width: 640px) 100vw, 192px"
 // //                     loading="lazy"
-// //                     unoptimized={false}
 // //                   />
 // //                 </div>
 // //               </div>
@@ -158,7 +157,6 @@
 // //                           }}
 // //                           fill
 // //                           loading="lazy"
-// //                           unoptimized={false}
 // //                         />
 // //                       </div>
 // //                       <div className="absolute -top-1 -right-1 w-3 h-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 ring-2 ring-white dark:ring-gray-800 bg-amber-400" />
@@ -226,7 +224,6 @@
 // //         }`}
 // //       >
 // //         <Image
-// //           unoptimized={true}
 // //           src={getOptimizedImageUrl(item.array_ProductImg[0], false)}
 // //           alt={locale === "ar" ? item.title.ar : item.title.fr}
 // //           fill
@@ -255,7 +252,6 @@
 // //               viewMode === "list" ? "rounded-lg" : ""
 // //             }`}
 // //             loading="lazy"
-// //             unoptimized={true}
 // //           />
 // //         )}
 
@@ -783,7 +779,6 @@
 //                     fill
 //                     sizes="(max-width: 640px) 100vw, 192px"
 //                     loading="lazy"
-//                     unoptimized={false}
 //                   />
 //                 </div>
 //               </div>
@@ -861,7 +856,6 @@
 //                           }}
 //                           fill
 //                           loading="lazy"
-//                           unoptimized={false}
 //                         />
 //                       </div>
 //                       <div className="absolute -top-1 -right-1 w-3 h-3 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 ring-2 ring-white dark:ring-gray-800 bg-amber-400" />
@@ -929,7 +923,6 @@
 //         }`}
 //       >
 //         <Image
-//           unoptimized={true}
 //           src={getOptimizedImageUrl(item.array_ProductImg[0], false)}
 //           alt={locale === "ar" ? item.title.ar : item.title.fr}
 //           fill
@@ -958,7 +951,6 @@
 //               viewMode === "list" ? "rounded-lg" : ""
 //             }`}
 //             loading="lazy"
-//             unoptimized={true}
 //           />
 //         )}
 

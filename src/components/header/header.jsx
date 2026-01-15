@@ -270,7 +270,6 @@ const Header = () => {
                   height={120}
                   loading="lazy"
                   alt="Crystal Annaba Logo"
-                  //  unoptimized={true}
                 />
               </div>
             </Link>
