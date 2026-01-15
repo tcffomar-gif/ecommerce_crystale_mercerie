@@ -152,3 +152,4 @@ export default async function sitemap() {
 
   return [...staticPages , ...categoryPages, ...productPages];
 }
+
