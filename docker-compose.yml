@@ -43,7 +43,7 @@ services:
       - webroot:/var/www/html
     depends_on:
       - nginx
-    command: certonly --webroot --webroot-path=/var/www/html --email omarichou567@gmail.com --agree-tos --no-eff-email --non-interactive --keep-until-expiring -d test_server.crystalmercerie.com
+    command: certonly --webroot --webroot-path=/var/www/html --email omarichou567@gmail.com --agree-tos --no-eff-email --non-interactive --keep-until-expiring -d crystalmercerie.com
 
 networks:
   crystal-app-network-prod:
