@@ -29,6 +29,7 @@ services:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
       - /home/vps/images:/usr/share/nginx/html/images
       - webroot:/var/www/html
+      - certbot-etc:/etc/letsencrypt
     depends_on:
       - app
     networks:
